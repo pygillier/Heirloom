@@ -9,6 +9,9 @@ The Digital Heirloom Application is a self-hostable platform that allows users t
 ### Technology Stack
 - **Backend**: Django 5.x
 - **Database**: PostgreSQL 15+
+- **Package Manager**: uv (Python)
+- **Frontend**: Server-side rendered Django templates
+- **Styling**: TailwindCSS
 - **Encryption**: AES-256-GCM (symmetric encryption)
 - **Key Derivation**: PBKDF2 with SHA-256
 - **File Storage**: Local filesystem with encrypted storage
